@@ -9,3 +9,5 @@ Available in `Page_Table/`
 Available in `RTL/`
 3. The applications used to generate memory trace files using the pin-tool on GUPS, XSBench, Seq-List and BTree programs from [Mosaic](https://dl.acm.org/doi/10.1145/3582016.3582021).
 Available in `Trace_Codes/`
+
+Since the trace files generated are large, a sample trace has been provided [here](https://drive.google.com/file/d/1mVjP6ARcCd_0aPk9u3Hzec2UiP_NuDOv/view?usp=share_link) for experimentation.
