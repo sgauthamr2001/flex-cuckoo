@@ -7,5 +7,5 @@ The artifact consists of two experiments.
 Available in `Page_Table/`
 2. Verilog timing analysis between Elastic Cuckoo Hashing and Flex-Cuckoo Hashing.  
 Available in `RTL/`
-3. The memory trace files generated using the pin-tool on GUPS, XSBench, Seq-List and BTree programs from Mosaic. 
+3. The memory trace files generated using the pin-tool on GUPS, XSBench, Seq-List and BTree programs from ![Mosaic](https://dl.acm.org/doi/10.1145/3582016.3582021). 
 Available in `Trace_Codes/`
